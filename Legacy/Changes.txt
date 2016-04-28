@@ -1,0 +1,42 @@
+Changes I made to the website:
+	-Added a carousel to the about page.
+	-Used JavaScript to update the contact page to say thank you without a reload.
+	-Used JavaScript to make the carousel change and the indicators working.
+	-Changed the resume to a link.
+	-Added a link to my GitHub on the resume page.
+	-Added a link to a paper I have written on my resume page.
+	-Added content to the homepage including a picture.
+	-Added content to the about page including a picture of me and the girlfriend.
+	-Added styling to each page to center the text.
+	-Added styling to the nav-bar, changed the color of the background and the foreground.
+	-Changed the styling of the contact page to better fit the website
+	-Changed all .html files to .php files.
+	-Put the header in its own file and included it.
+	-Put the footer in its own file and included it.
+
+	Overall I am very happy with the changes I made to the website. They all felt like meaningful changes and not just change for the sake of change. I really like the color scheme I choose. Using php loops to simplify repetitive links and such was very useful. Especially when it came to the carousel. Everything seems much cleaner and nicer when done this way. Using jQuery is always nice because of the great documentation and the vast amount of help out on the internet. I think that my site looks nice and at least semi-professional. Using the bootstrap template was a good idea as it gave me a great base to work with. In the end one of my biggest flaws here is that I am not good at coming up with ideas out of thin air so my website feels a little bare to me. However, I still am very happy with the way my site turned out. I am proud of it and I can’t wait to get it online so I can show it off to my family.  
+
+What I learned:
+	-I learned how to use jQuery to change page content without a reload.
+	-I learned how to use jQuery to implement a carousel.
+	-I learned how to use php loops to add repeated content to a page.
+	-I learned how to style a carousel.
+	-I learned how to include a header and footer.
+	-I learned the hard way that your included JavaScript’s HAVE TO BE AFTER the jQuery CDN.
+	-I learned how to style images using grid.
+	-I learned how to select multiple elements with jQuery.
+	-I learned more about CSS inheritance.
+	-I learned how to use the inspect element tool better, specifically how to identify elements and what they are and find their styling.
+
+	Doing this project taught me a lot. Especially about CSS. CSS was one of the hardest things for me to grasp, mainly because it is so expansive and there are so many options. w3schools came in very handy for helping see all my options. the exercises actually helped me understand jQuery a lot. Because of this implementing the jQuery on my website was rather simple. Once I had done the first php loop of just listing links, then the more advanced carousel loops were easier. I spent a good amount of time trying to figure out why my JavaScript wasn't working before I realized that I was including my scripts before the google jQuery CDN. Using the bootstrap grid along with CSS made getting everything in line and looking nice easy. The inspect element tool was very handy as it helped me really understand what the layout of things is like. What is a child of what and what is an id and class. It was also helpful to use the console for debugging my JavaScript.
+
+What I would do for part 3:
+	I would like to implement something more on the homepage as it feels a little lacking. Maybe try a more advanced bootstrap template. I would like to have my contact form email me rather then submit to the database. I don’t think there is too much more I would do for a third part. I would have to let this current iteration sit for a bit while I think of way to improve it. 
+
+What I liked about this project:
+	I liked that it let me build my own website. Being able to immediately see changes as I create them is exciting. I also like how literally any problem I ran in to I was able to search it and find help. Using jQuery makes using JavaScript very nice. I like that this is a lasting project not just something I will forget about in a couple weeks. I enjoyed doing a little database work as I learned a lot from actually doing it. I like styling my website. It is fun to play around with colors and and spacing. 
+
+What I would change:
+	Not much honestly. I think this was a good project to have for the semester. I thoroughly enjoyed working on it.  
+
+

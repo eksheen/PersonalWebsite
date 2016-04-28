@@ -1,0 +1,117 @@
+#formSubmit {
+  width: 500px;
+  height: 30px;
+  display: inline-block;
+  background-color: #000264;
+  border: 1px solid #000264;
+  color: White;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+#nameForm {
+  width: 500px;
+  height: 27px;
+  padding: 1px 4px;
+  margin: 4px 0px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+#emailForm {
+  width: 500px;
+  height: 27px;
+  padding: 1px 4px;
+  margin: 4px 0px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+#inquiryForm {
+  width: 500px;
+  height: 10em;
+  padding: 1px 4px;
+  margin: 4px 0px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+  text-align: left;
+}
+
+.navbar-inverse {
+  background-color: #000264;
+  border-color: #000264;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: #fff;
+  background-color: #838383;
+}
+
+#homepageMe {
+  border-radius: 12px;
+  max-width: 100%;  
+}
+
+#aboutIMG {
+  border-radius: 220px;
+  margin-right: 220px
+}
+
+.carousel {
+  width: auto;
+  height: auto;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 70%;
+  height: 70%;
+  margin: auto;
+}
+
+.carousel-indicators li {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin: 1.5px;
+  text-indent: -999px;
+  cursor: pointer;
+  background-color: #000 \9;
+  background-color: rgba(0, 0, 0, 0);
+  border: 1px solid #fff;
+  border-radius: 2px;
+}
+
+#Wallpaper-carousel.carousel.slide {
+  background-color: black;
+}
+
+#afterCarousel {
+  padding-left: 220px;
+}
+
+.body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.42857143;
+  color: #373737;
+  background-color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
